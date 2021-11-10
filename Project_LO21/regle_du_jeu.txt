@@ -1,0 +1,24 @@
+Regle :
+
+-> Le but du jeu est de parcourir un maximum la map et de tuer un maximum de monstres
+-> Votre score augmente de 1 par endroit explore
+-> Votre score augmente de 1 par monstre tue
+-> Votre score augmente de 1 par craft realise
+-> Vous demarrer dans une foret avec 20 pts de vie, votre inventaire est vide
+-> Il y a 1 monstre par donjon, vous ne pouvez pas sortir d'un donjon avant de l'avoir tue
+-> Les monstres infligent 4 pts de degat a chaque commande que vous executez
+-> Vous infligez, 1 pts de degat a main nu et 5 pts de degat si vous possedez une epee, aux monstres
+-> Vous gagnez 2 pts de vie par pomme mange
+-> La commande "couper" ne peut etre executer que dans une foret, elle donne 1 pomme et 1 buche
+-> Si vous possedez deja 1 buche, la cmd "couper" ne donne qu'une pomme
+-> La commande "miner" ne peut etre executer que dans une grotte, elle donne 1 fer
+-> Si vous possedez deja 1 fer, la cmd "miner" ne donne rien
+-> La commande "inventaire" affiche votre inventaire
+-> La commande "aller" affiche les directions ou vous pouvez aller
+-> La commande "aller <drct>" permet d'aller dans un autre endroit
+-> La commande "craft" affiche les craft que vous pouvez faire
+-> La commande "craft <objet>" craft l'objet voulu
+-> La commande "aide" affiche toutes les commandes possibles
+-> La commande "attaquer" permet d'infliger des degats a un monstre
+-> La commande "quitter" permet d'abandonner la partie en cours
+-> Pour vous deplacer, veuillez indiquer la direction par "nord" ou "s-o" ou "s-e"

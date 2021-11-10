@@ -1,0 +1,247 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"afficher",
+				"afficher_bc"
+			],
+			[
+				"liste",
+				"liste_regle"
+			],
+			[
+				"est",
+				"est_quitte"
+			],
+			[
+				"comma",
+				"commande_regarder"
+			],
+			[
+				"lie",
+				"lieu_en_nombre"
+			],
+			[
+				"ges",
+				"gestion_commande_arg2"
+			],
+			[
+				"str",
+				"strcmp"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jules/Desktop/projet_lo21/main.c",
+		"/C/Users/jules/Desktop/projet_lo21/all.h",
+		"/C/Users/jules/Desktop/projet_lo21/joueur.c",
+		"/C/Users/jules/Desktop/projet_lo21/interface.c",
+		"/C/Users/jules/Desktop/projet_lo21/inventaire.c",
+		"/C/Users/jules/Desktop/projet_lo21/fonctions.c",
+		"/C/Users/jules/Desktop/projet_lo21/craft.h",
+		"/C/Users/jules/Desktop/projet_lo21/craft.c",
+		"/C/Users/jules/Desktop/projet_lo21/jeu.c",
+		"/C/Users/jules/Documents/UTBM/TC03/LO21/arbre/all.h",
+		"/C/Users/jules/AppData/Local/Temp/Makefile",
+		"/C/Users/jules/Documents/UTBM/TC03/LO21/arbre/main.c",
+		"/C/Users/jules/Documents/UTBM/TC03/LO21/arbre/joueur.c",
+		"/C/Users/jules/Documents/UTBM/TC03/LO21/arbre/inventaire.c",
+		"/C/Users/jules/Documents/UTBM/TC03/LO21/arbre/fonctions.c",
+		"/C/Users/jules/AppData/Local/Temp/Makefile_Q2_exercice1_TP4",
+		"/C/Users/jules/AppData/Local/Temp/Makefile_exercice2_TP4",
+		"/C/Users/jules/Documents/UTBM/TC03/LO21/arbre/fonction.h",
+		"/C/Users/jules/Documents/UTBM/TC03/LO21/arbre/inventaire.h",
+		"/C/Users/jules/Documents/UTBM/TC03/LO21/arbre/joueur.h",
+		"/C/Users/jules/Documents/UTBM/TC03/LO21/arbre/jeu.c",
+		"/C/Users/jules/AppData/Local/Temp/PROJET_INFO",
+		"/C/Users/jules/AppData/Local/Temp/liste.c",
+		"/D/Jules/Prog_Python/Prog_005.py",
+		"/D/Jules/Prog_Python/Prog_004.py",
+		"/D/Jules/Prog_Python/Prog_001.py",
+		"/D/Jules/Prog_Python/Prog_003.py",
+		"/D/Jules/Prog_Python/Prog_002.py",
+		"/D/Jules/Prog_Python/Prog_006.py",
+		"/C/Users/jules/AppData/Roaming/lunarclient/Local Storage/leveldb/LOG",
+		"/C/Users/jules/Desktop/Program C/Project/Menu.c",
+		"/C/Users/jules/Desktop/Developpeur/Program C/CC1_IFE1_PETRY_Jules/main.c",
+		"/C/Users/jules/Desktop/Program C/Project/main.c",
+		"/C/Users/jules/AppData/Local/Temp/message.txt",
+		"/C/Users/jules/AppData/Local/Temp/exercice11-3.c",
+		"/C/Users/jules/AppData/Local/Temp/exercice11-2.c",
+		"/C/Users/jules/AppData/Local/Temp/exercice11-4.c",
+		"/C/Users/jules/AppData/Local/Temp/exercice11-1.c",
+		"/C/Users/jules/AppData/Local/Temp/exercice11-5.c",
+		"/C/Users/jules/AppData/Local/Temp/exercice11-6.c",
+		"/C/Users/jules/AppData/Local/Temp/exercice11-6-1.c",
+		"/C/Users/jules/AppData/Local/Temp/exercice11-1-1.c",
+		"/C/Users/jules/AppData/Local/Temp/exercice11-4-1.c",
+		"/C/Users/jules/Desktop/ee/main.c",
+		"/C/Users/jules/Desktop/Program C/lejeudelavie/main.c",
+		"/C/Users/jules/AppData/Local/Temp/crash-2020-04-14_21.30.06-client.txt",
+		"/C/Users/jules/Desktop/Program C/exam/main.c",
+		"/C/Users/jules/AppData/Local/Temp/CC.c",
+		"/C/Users/jules/AppData/Local/Temp/main.c",
+		"/C/Users/jules/AppData/Local/Temp/exercice9-5.c",
+		"/C/Users/jules/Desktop/Program C/first/main.c",
+		"/C/Users/jules/Desktop/Program C/first/exercices.c",
+		"/C/Users/jules/Desktop/Program C/first/machin.c",
+		"/C/Users/jules/Desktop/Developpeur/Serveur/start.bat.txt",
+		"/C/Users/jules/Desktop/start.bat.txt"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "arbre.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 96.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

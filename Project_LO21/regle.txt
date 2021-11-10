@@ -1,0 +1,12 @@
+pioche *
+fer ;
+buche ;
+pioche :
+pioche_bois *
+pioche ;
+buche ;
+pioche_bois :
+epee *
+fer ;
+buche ;
+epee :

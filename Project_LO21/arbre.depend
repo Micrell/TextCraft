@@ -1,0 +1,570 @@
+# depslib dependency file v1.0
+1606849412 source:c:\users\jules\desktop\c prgram\arbre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	<stdbool.h>
+	<string.h>
+
+1606849036 c:\users\jules\desktop\c prgram\arbre\fonction.h
+	<stdbool.h>
+
+1606849435 source:c:\users\jules\desktop\c prgram\arbre\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	<stdbool.h>
+	<string.h>
+
+1606846219 source:c:\users\jules\desktop\c prgram\arbre\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	<stdbool.h>
+	<string.h>
+
+1607361591 source:c:\users\jules\documents\utbm\tc03\lo21\arbre\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"all.h"
+
+1607358750 c:\users\jules\documents\utbm\tc03\lo21\arbre\fonction.h
+	<stdbool.h>
+	"inventaire.h"
+	"joueur.h"
+
+1606999485 source:c:\users\jules\documents\utbm\tc03\lo21\arbre\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	<stdbool.h>
+	<string.h>
+
+1607361878 source:c:\users\jules\documents\utbm\tc03\lo21\arbre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"all.h"
+
+1607358805 c:\users\jules\documents\utbm\tc03\lo21\arbre\inventaire.h
+	"inventaire.h"
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+
+1607360728 source:c:\users\jules\documents\utbm\tc03\lo21\arbre\inventaire.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"all.h"
+
+1607013006 source:c:\users\jules\documents\utbm\tc03\lo21\arbre\craft.c
+
+1607353997 c:\users\jules\documents\utbm\tc03\lo21\arbre\joueur.h
+	"fonction.h"
+	"inventaire.h"
+
+1607360713 source:c:\users\jules\documents\utbm\tc03\lo21\arbre\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"all.h"
+
+1607361920 c:\users\jules\documents\utbm\tc03\lo21\arbre\all.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1608910604 source:c:\users\jules\desktop\projet_lo21\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	"all.h"
+
+1608909375 c:\users\jules\desktop\projet_lo21\all.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"craft.h"
+
+1608917777 source:c:\users\jules\desktop\projet_lo21\inventaire.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"all.h"
+
+1608916939 source:c:\users\jules\desktop\projet_lo21\joueur.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"all.h"
+	"craft.h"
+
+1608917047 source:c:\users\jules\desktop\projet_lo21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1607694170 source:c:\users\2maxi\desktop\projet_lo21\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	"all.h"
+
+1608691957 c:\users\2maxi\desktop\projet_lo21\all.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"craft.h"
+
+1608684570 source:c:\users\2maxi\desktop\projet_lo21\inventaire.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"all.h"
+
+1608692400 source:c:\users\2maxi\desktop\projet_lo21\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"all.h"
+	"craft.h"
+
+1608691808 source:c:\users\2maxi\desktop\projet_lo21\craft.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1608691739 c:\users\2maxi\desktop\projet_lo21\craft.h
+
+1608692113 source:c:\users\2maxi\desktop\projet_lo21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1608910989 c:\users\jules\desktop\projet_lo21\craft.h
+
+1608910993 source:c:\users\jules\desktop\projet_lo21\craft.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1608916595 source:c:\users\jules\desktop\projet_lo21\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"craft.h"
+	"all.h"
+
+1608910993 source:c:\users\2maxi\desktop\projet_fini\projet_lo21\craft.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1608910989 c:\users\2maxi\desktop\projet_fini\projet_lo21\craft.h
+
+1608909375 c:\users\2maxi\desktop\projet_fini\projet_lo21\all.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"craft.h"
+
+1608910604 source:c:\users\2maxi\desktop\projet_fini\projet_lo21\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	"all.h"
+
+1609870224 source:c:\users\2maxi\desktop\projet_fini\projet_lo21\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"craft.h"
+	"all.h"
+
+1608917777 source:c:\users\2maxi\desktop\projet_fini\projet_lo21\inventaire.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"all.h"
+
+1608916939 source:c:\users\2maxi\desktop\projet_fini\projet_lo21\joueur.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"all.h"
+	"craft.h"
+
+1608917047 source:c:\users\2maxi\desktop\projet_fini\projet_lo21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1608910993 source:c:\users\2maxi\desktop\semaine des finaux\projet_fini\projet_lo21\craft.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1608910989 c:\users\2maxi\desktop\semaine des finaux\projet_fini\projet_lo21\craft.h
+
+1608909375 c:\users\2maxi\desktop\semaine des finaux\projet_fini\projet_lo21\all.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"craft.h"
+
+1608910604 source:c:\users\2maxi\desktop\semaine des finaux\projet_fini\projet_lo21\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	"all.h"
+
+1609870224 source:c:\users\2maxi\desktop\semaine des finaux\projet_fini\projet_lo21\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"craft.h"
+	"all.h"
+
+1608917777 source:c:\users\2maxi\desktop\semaine des finaux\projet_fini\projet_lo21\inventaire.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"all.h"
+
+1608916939 source:c:\users\2maxi\desktop\semaine des finaux\projet_fini\projet_lo21\joueur.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"all.h"
+	"craft.h"
+
+1609870472 source:c:\users\2maxi\desktop\semaine des finaux\projet_fini\projet_lo21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1608910993 source:c:\users\2maxi\desktop\exemple d'application\documents source\craft.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1608910989 c:\users\2maxi\desktop\exemple d'application\documents source\craft.h
+
+1608909375 c:\users\2maxi\desktop\exemple d'application\documents source\all.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"craft.h"
+
+1608910604 source:c:\users\2maxi\desktop\exemple d'application\documents source\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	"all.h"
+
+1609870224 source:c:\users\2maxi\desktop\exemple d'application\documents source\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"craft.h"
+	"all.h"
+
+1608917777 source:c:\users\2maxi\desktop\exemple d'application\documents source\inventaire.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"all.h"
+
+1608916939 source:c:\users\2maxi\desktop\exemple d'application\documents source\joueur.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"all.h"
+	"craft.h"
+
+1609870472 source:c:\users\2maxi\desktop\exemple d'application\documents source\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1608910993 source:c:\users\2maxi\desktop\exemple d'application\documents source\exemple_dapplication\craft.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1608910989 c:\users\2maxi\desktop\exemple d'application\documents source\exemple_dapplication\craft.h
+
+1608909375 c:\users\2maxi\desktop\exemple d'application\documents source\exemple_dapplication\all.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"craft.h"
+
+1608910604 source:c:\users\2maxi\desktop\exemple d'application\documents source\exemple_dapplication\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	"all.h"
+
+1609870224 source:c:\users\2maxi\desktop\exemple d'application\documents source\exemple_dapplication\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"craft.h"
+	"all.h"
+
+1608917777 source:c:\users\2maxi\desktop\exemple d'application\documents source\exemple_dapplication\inventaire.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"all.h"
+
+1608916939 source:c:\users\2maxi\desktop\exemple d'application\documents source\exemple_dapplication\joueur.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"all.h"
+	"craft.h"
+
+1609870472 source:c:\users\2maxi\desktop\exemple d'application\documents source\exemple_dapplication\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1608910993 source:c:\users\jules\desktop\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\craft.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1608910989 c:\users\jules\desktop\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\craft.h
+
+1608909375 c:\users\jules\desktop\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\all.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"craft.h"
+
+1608910604 source:c:\users\jules\desktop\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	"all.h"
+
+1609870224 source:c:\users\jules\desktop\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"craft.h"
+	"all.h"
+
+1608917777 source:c:\users\jules\desktop\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\inventaire.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"all.h"
+
+1608916939 source:c:\users\jules\desktop\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\joueur.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"all.h"
+	"craft.h"
+
+1609870472 source:c:\users\jules\desktop\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1608910993 source:c:\users\jules\documents\utbm\tc03\lo21\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\craft.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
+1608910989 c:\users\jules\documents\utbm\tc03\lo21\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\craft.h
+
+1608909375 c:\users\jules\documents\utbm\tc03\lo21\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\all.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"craft.h"
+
+1608910604 source:c:\users\jules\documents\utbm\tc03\lo21\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	"all.h"
+
+1609870224 source:c:\users\jules\documents\utbm\tc03\lo21\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"craft.h"
+	"all.h"
+
+1608917777 source:c:\users\jules\documents\utbm\tc03\lo21\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\inventaire.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"all.h"
+
+1608916939 source:c:\users\jules\documents\utbm\tc03\lo21\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\joueur.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"all.h"
+	"craft.h"
+
+1609870472 source:c:\users\jules\documents\utbm\tc03\lo21\rendu projet lo21\exemple d'application\documents sources\exemple_dapplication\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"craft.h"
+	"all.h"
+
